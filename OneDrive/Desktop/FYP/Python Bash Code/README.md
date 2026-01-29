@@ -56,4 +56,4 @@ Python Bash Code/
 
 Author: Mohamad Syahmi
 Bachelor Degree in Network Computing
-Final Year Project – AI-Based Cloud Server Monitoring System
+Final Year Project – AI-Powered Cloud Monitoring and Auto-Healing System
