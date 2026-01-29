@@ -1,0 +1,14 @@
+model_path: models/isolation_forest.pkl
+raw_data: data/raw/mock_metrics.csv
+processed_data: data/processed/cleaned_metrics.csv
+log_file: logs/system.log
+
+thresholds:
+  cpu: 80
+  memory: 75
+  disk: 85
+network_thresholds:
+  max_errin: 5
+  max_errout: 5
+  max_dropin: 50
+  max_dropout: 50
